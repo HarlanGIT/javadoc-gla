@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.nguyrich"},{"l":"com.nguyrich.algorithmes"},{"l":"com.nguyrich.contrainte"},{"l":"com.nguyrich.evaluation"},{"l":"com.nguyrich.io"},{"l":"com.nguyrich.modele"},{"l":"com.nguyrich.solution"},{"l":"com.nguyrich.utils"}];updateSearchResults();
